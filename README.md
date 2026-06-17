@@ -33,7 +33,7 @@ update.
   signal runs out, collect GitHub pins, chase the rare Rubber Duck. Speed score
   + C→S+ grades, per-node best.
 - **Bug Bash** — a fast arcade bug-squashing game.
-- **Mona Pet** — a Tamagotchi with real-time RTC decay and a day/night room.
+- **Mona Pet** — Refreshed with Higher Res Visuals and real-time RTC decay that drives the exeperience(day/night room).
 - Plus **Flappy, Gallery, Sketch, Quest**, daily bonuses, and more — the
   existing apps reworked on the new API for consistency.
 
