@@ -1,0 +1,17 @@
+# device-private config (created on first boot / by Setup) — never commit
+secrets.py
+system/secrets.py
+
+# device runtime state + caches
+.badge_state/
+state/
+*.raw
+contrib_data.json
+user_data.json
+wifi.json
+avatar.png
+
+# python
+__pycache__/
+*.pyc
+.venv/

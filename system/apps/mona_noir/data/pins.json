@@ -1,0 +1,41 @@
+{
+  "starter": [
+    { "pin_id": "verified_profile", "name": "Verified Profile", "set": null, "desc": "Your badge is linked to GitHub." }
+  ],
+  "common": [
+    { "pin_id": "commit",       "name": "Commit",        "set": "feature",  "desc": "Every commit lights the Graph." },
+    { "pin_id": "branch_fork",  "name": "Branch / Fork", "set": "feature",  "desc": "Where new ideas grow." },
+    { "pin_id": "pull_request", "name": "Pull Request",  "set": "feature",  "desc": "Propose, review, merge." },
+    { "pin_id": "issue",        "name": "Issue",         "set": "security", "desc": "Track what needs fixing." },
+    { "pin_id": "code",         "name": "Code",          "set": "feature",  "desc": "The source of it all." },
+    { "pin_id": "discussion",   "name": "Discussion",    "set": null,       "desc": "Where the community talks." },
+    { "pin_id": "watch",        "name": "Watch",         "set": null,       "desc": "Keep an eye on a repo." },
+    { "pin_id": "star",         "name": "Star",          "set": null,       "desc": "Show a project some love." }
+  ],
+  "rare": [
+    { "pin_id": "actions",    "name": "Actions",    "set": null, "desc": "Automate everything." },
+    { "pin_id": "packages",   "name": "Packages",   "set": null, "desc": "Ship and share your builds." },
+    { "pin_id": "pages",      "name": "Pages",      "set": null, "desc": "Host straight from the repo." },
+    { "pin_id": "codespaces", "name": "Codespaces", "set": null, "desc": "Your dev env in the cloud." },
+    { "pin_id": "projects",   "name": "Projects",   "set": null, "desc": "Plan the work, work the plan." },
+    { "pin_id": "wiki",       "name": "Wiki",       "set": null, "desc": "Docs that live with the code." }
+  ],
+  "defense": [
+    { "pin_id": "firewall",  "name": "Firewall",  "set": "security", "desc": "Blocks one breach attempt." },
+    { "pin_id": "honeypot",  "name": "Honeypot",  "set": null,       "desc": "Feeds attackers fake data." },
+    { "pin_id": "traceback", "name": "Traceback", "set": "security", "desc": "Reveals your last attacker." }
+  ],
+  "ultra_rare": [
+    { "pin_id": "root_key",   "name": "Root Key",   "set": null,      "desc": "Master access to the Graph." },
+    { "pin_id": "invertocat", "name": "Invertocat", "set": "octocat", "desc": "Guardian of the Graph." },
+    { "pin_id": "nullcat",    "name": "Nullcat",    "set": "octocat", "desc": "The corrupted inversion." }
+  ],
+  "bonus": [
+    { "pin_id": "rubber_ducky", "name": "Rubber Ducky", "set": null, "hidden": true, "rarity": "secret", "challenge_id": "duck_hunt", "desc": "Debug companion. Secret bonus!", "hint": "Rubber-duck-debug three glitched nodes in a single session to flush out Mona's hidden debugger." }
+  ],
+  "sets": {
+    "feature":  { "name": "Feature Set",  "pins": ["commit", "branch_fork", "pull_request", "code"] },
+    "security": { "name": "Security Set", "pins": ["firewall", "traceback", "issue"] },
+    "octocat":  { "name": "Octocat Set",  "pins": ["invertocat", "nullcat"] }
+  }
+}

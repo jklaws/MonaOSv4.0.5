@@ -1,0 +1,282 @@
+{
+  "screen": {
+    "w": 160,
+    "h": 120
+  },
+  "pins": {
+    "verified_profile": {
+      "file": "pin_verified_profile.png",
+      "w": 24,
+      "h": 24
+    },
+    "commit": {
+      "file": "pin_commit.png",
+      "w": 24,
+      "h": 24
+    },
+    "branch_fork": {
+      "file": "pin_branch_fork.png",
+      "w": 24,
+      "h": 24
+    },
+    "pull_request": {
+      "file": "pin_pull_request.png",
+      "w": 24,
+      "h": 24
+    },
+    "issue": {
+      "file": "pin_issue.png",
+      "w": 24,
+      "h": 24
+    },
+    "code": {
+      "file": "pin_code.png",
+      "w": 24,
+      "h": 24
+    },
+    "discussion": {
+      "file": "pin_discussion.png",
+      "w": 24,
+      "h": 24
+    },
+    "watch": {
+      "file": "pin_watch.png",
+      "w": 24,
+      "h": 24
+    },
+    "star": {
+      "file": "pin_star.png",
+      "w": 24,
+      "h": 24
+    },
+    "actions": {
+      "file": "pin_actions.png",
+      "w": 24,
+      "h": 24
+    },
+    "packages": {
+      "file": "pin_packages.png",
+      "w": 24,
+      "h": 24
+    },
+    "pages": {
+      "file": "pin_pages.png",
+      "w": 24,
+      "h": 24
+    },
+    "codespaces": {
+      "file": "pin_codespaces.png",
+      "w": 24,
+      "h": 24
+    },
+    "projects": {
+      "file": "pin_projects.png",
+      "w": 24,
+      "h": 24
+    },
+    "wiki": {
+      "file": "pin_wiki.png",
+      "w": 24,
+      "h": 24
+    },
+    "firewall": {
+      "file": "pin_firewall.png",
+      "w": 24,
+      "h": 24
+    },
+    "honeypot": {
+      "file": "pin_honeypot.png",
+      "w": 24,
+      "h": 24
+    },
+    "traceback": {
+      "file": "pin_traceback.png",
+      "w": 24,
+      "h": 24
+    },
+    "root_key": {
+      "file": "pin_root_key.png",
+      "w": 24,
+      "h": 24
+    },
+    "invertocat": {
+      "file": "pin_invertocat.png",
+      "w": 24,
+      "h": 24
+    },
+    "nullcat": {
+      "file": "pin_nullcat.png",
+      "w": 24,
+      "h": 24
+    },
+    "rubber_ducky": {
+      "file": "pin_rubber_ducky.png",
+      "w": 24,
+      "h": 24
+    }
+  },
+  "backgrounds": {
+    "title": {
+      "file": "bg_title.png",
+      "w": 160,
+      "h": 120
+    },
+    "map": {
+      "file": "bg_map.png",
+      "w": 160,
+      "h": 120
+    },
+    "hacked": {
+      "file": "bg_hacked.png",
+      "w": 160,
+      "h": 120
+    }
+  },
+  "characters": {
+    "mona": {
+      "file": "char_mona.png",
+      "w": 40,
+      "h": 48
+    },
+    "invertocat": {
+      "file": "char_invertocat.png",
+      "w": 40,
+      "h": 48
+    },
+    "nullcat": {
+      "file": "char_nullcat.png",
+      "w": 40,
+      "h": 48
+    }
+  },
+  "districts": {
+    "1": {
+      "file": "district_1.png",
+      "name": "GitHub Learn",
+      "w": 28,
+      "h": 28
+    },
+    "2": {
+      "file": "district_2.png",
+      "name": "What's Up Docs",
+      "w": 28,
+      "h": 28
+    },
+    "3": {
+      "file": "district_3.png",
+      "name": "Demos & Donuts",
+      "w": 28,
+      "h": 28
+    },
+    "4": {
+      "file": "district_4.png",
+      "name": "Open Source Zone",
+      "w": 28,
+      "h": 28
+    },
+    "5": {
+      "file": "district_5.png",
+      "name": "Hack Your Badge",
+      "w": 28,
+      "h": 28
+    },
+    "6": {
+      "file": "district_6.png",
+      "name": "Octocat Generator",
+      "w": 28,
+      "h": 28
+    },
+    "7": {
+      "file": "district_7.png",
+      "name": "GitHub Next",
+      "w": 28,
+      "h": 28
+    },
+    "8": {
+      "file": "district_8.png",
+      "name": "Stars Lounge",
+      "w": 28,
+      "h": 28
+    },
+    "9": {
+      "file": "district_9.png",
+      "name": "Makerspace",
+      "w": 28,
+      "h": 28
+    }
+  },
+  "ui": {
+    "lock": {
+      "file": "ui_lock.png",
+      "w": 16,
+      "h": 16
+    },
+    "unlock": {
+      "file": "ui_unlock.png",
+      "w": 16,
+      "h": 16
+    },
+    "ir": {
+      "file": "ui_ir.png",
+      "w": 16,
+      "h": 16
+    },
+    "wifi": {
+      "file": "ui_wifi.png",
+      "w": 16,
+      "h": 16
+    },
+    "check": {
+      "file": "ui_check.png",
+      "w": 16,
+      "h": 16
+    },
+    "cursor": {
+      "file": "ui_cursor.png",
+      "w": 16,
+      "h": 16
+    },
+    "corruption": {
+      "file": "ui_corruption.png",
+      "w": 16,
+      "h": 16
+    }
+  },
+  "crack_tiles": {
+    "path": {
+      "file": "tile_path.png",
+      "w": 14,
+      "h": 14
+    },
+    "empty": {
+      "file": "tile_empty.png",
+      "w": 14,
+      "h": 14
+    },
+    "corrupt": {
+      "file": "tile_corrupt.png",
+      "w": 14,
+      "h": 14
+    },
+    "lock": {
+      "file": "tile_lock.png",
+      "w": 14,
+      "h": 14
+    },
+    "root": {
+      "file": "tile_root.png",
+      "w": 14,
+      "h": 14
+    },
+    "bonus": {
+      "file": "tile_bonus.png",
+      "w": 14,
+      "h": 14
+    },
+    "start": {
+      "file": "tile_start.png",
+      "w": 14,
+      "h": 14
+    }
+  }
+}

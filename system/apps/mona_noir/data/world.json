@@ -1,0 +1,17 @@
+{
+  "title": "MONA NOIR: Ghost in the Graph",
+  "beacon_address": "0x45",
+  "graph_node_target": 10,
+  "districts": [
+    { "level_id": "github_learn",      "display_name": "GitHub Learn",      "order": 1,  "tier": 1, "beacon_code": "0x77" },
+    { "level_id": "whats_up_docs",     "display_name": "What's Up Docs",    "order": 2,  "tier": 1, "beacon_code": "0x22" },
+    { "level_id": "demos_donuts",      "display_name": "Demos & Donuts",    "order": 3,  "tier": 1, "beacon_code": "0x66" },
+    { "level_id": "open_source_zone",  "display_name": "Open Source Zone",  "order": 4,  "tier": 2, "beacon_code": "0x55" },
+    { "level_id": "hack_your_badge",   "display_name": "Hack Your Badge",   "order": 5,  "tier": 2, "beacon_code": "0x11" },
+    { "level_id": "octocat_generator", "display_name": "Octocat Generator", "order": 6,  "tier": 2, "beacon_code": "0x88" },
+    { "level_id": "github_next",       "display_name": "GitHub Next",       "order": 7,  "tier": 3, "beacon_code": "0x44" },
+    { "level_id": "stars_lounge",      "display_name": "Stars Lounge",      "order": 8,  "tier": 3, "beacon_code": "0x33" },
+    { "level_id": "makerspace",        "display_name": "Makerspace",        "order": 9,  "tier": 3, "beacon_code": "0x99" },
+    { "level_id": "root_node",         "display_name": "Root Node",         "order": 10, "tier": 4, "beacon_code": null, "unlock_requirements": { "graph_restored_percent_min": 100 } }
+  ]
+}
