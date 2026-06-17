@@ -1,7 +1,7 @@
 # MonaOS 4.0.5
 
 The GitHub Hackable Conference Badge ships with MonaOS 4.0.3. Great little
-machine. But 2026 is creeping up and there was still no updated OS, so I built
+machine. But Universe 2026 is creeping up and there was still no updated OS, so I built
 the one I wanted. This isn't official — it's my vision for what the GitHub
 Universe 2026 badge could run.
 It's built on the **Tufty 2350 badge firmware v2.0.2** (10 Apr 2026) — the
