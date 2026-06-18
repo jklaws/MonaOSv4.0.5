@@ -73,9 +73,16 @@ secrets.example.py # template for the per-device Wi-Fi/GitHub config
 ## Getting started
 
 ### Flash it — that's all you need
-Grab a `.uf2` from this repo's **Releases**:
+Grab the `.uf2` for **your board** from this repo's **Releases**. The GitHub
+Hackable badge and the retail Tufty have different button/electrical pins and are
+**not** cross-compatible, so pick the matching image:
+
+**GitHub Hackable Conference Badge**
 - **`MonaOS-4.0.5-with-filesystem.uf2`** — standard build (200 MHz).
 - **`MonaOS-4.0.5-250mhz-with-filesystem.uf2`** — optional overclock, ~20% faster.
+
+**Retail Pimoroni Tufty 2350**
+- **`MonaOS-4.0.5-tufty2350-with-filesystem.uf2`** — corrected Tufty pin map + 8 MB PSRAM enabled, 250 MHz.
 
 Then:
 1. Connect the badge over USB-C.
