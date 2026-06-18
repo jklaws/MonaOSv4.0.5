@@ -42,6 +42,7 @@ update.
   `SpriteSheet` animations (`frame()` auto-loops), `shape.custom` vector shapes,
   the `pressed` / `held` / `released` / `changed` input model, `screen.width/height`.
 - Per-app antialiasing: smooth (X2) for UI, **OFF** for fast games.
+- **QwSTPad I²C gamepad support** — plug a [Pimoroni QwSTPad](https://shop.pimoroni.com/products/qwst-pad) into the Qw/ST port and it drives the menu and every app/game (auto-detected, maps onto the board's buttons). See [`firmware/`](firmware/).
 - Lazy-loaded + LRU-evicted sprites with `gc` passes, so games run with no PSRAM.
 - **`corpsavage`** — an MIT-licensed 1-bit pixel font family at 6/7/8/9 px.
 - A per-user **"badge repo" convention**: `github.com/<handle>/badge` backs every
